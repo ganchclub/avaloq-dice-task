@@ -6,7 +6,7 @@ This application is a result of a task completion for Avaloq
 ### Package
 
 ```
-./mvn clean package
+./mvnw clean package
 ```
 ### Run jar
 To start the application run:
@@ -16,7 +16,7 @@ java -jar target/AvaloqDiceTask-1.0.jar
 ### Tests
 To launch the application's tests, run:
 ```
-./mvn clean test
+./mvnw clean test
 ```
 
 ## Solution details

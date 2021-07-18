@@ -32,3 +32,7 @@ out/
 
 # Thumbnails
 ._*
+
+# Maven Wrapper
+######################
+!.mvn/wrapper/maven-wrapper.jar
